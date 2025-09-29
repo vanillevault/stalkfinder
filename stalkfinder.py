@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # Coded by Vanille | stalkfinder v1.0
 
-# 🌸 “La calma entre líneas, donde el código respira,
-#     vive el susurro de @kitty_.monnie, musa que guía.” 🌸
-
 import requests
 import json
 import argparse
