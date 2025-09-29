@@ -1,10 +1,8 @@
 # 🕵️ stalkfinder.py
 
-**OSINT Tool by Vanille Noir**  
+**OSINT Tool by Vanille**  
 Búscalo. Encuéntralo. Analízalo. Todo desde la CLI.
 
-> 🌸 *“La calma entre líneas, donde el código respira,*  
-> *vive el susurro de @kitty_.monnie, musa que guía.”* 🌸
 >
 > ## 🧠 ¿Qué es stalkfinder?
 
@@ -93,11 +91,4 @@ Coded by Vanille
 Silk OSINT Lab — NodoSpectre Project
 🔗 github.com/vanillevault
 
-
----
-
-🌸 Dedicado a
-
-@kitty_.monnie (en ig)  — musa de la calma entre líneas,
-el susurro que guía este código en la sombra.
 
