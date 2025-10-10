@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Coded by Vanille | stalkfinder v1.0
+# Dedicado a mi stalker favorito y a la vez mi esposo @un4ii_st4byy_ en IG
 
 import requests
 import json
